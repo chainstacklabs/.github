@@ -23,9 +23,11 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 | Project | Description |
 |---------|-------------|
 | [`pump-fun-bot`](https://github.com/chainstacklabs/pump-fun-bot) | Open-source [Solana trading bot](https://www.youtube.com/watch?v=7valHrMLvZw). |
+| [`chainbench`](https://github.com/chainstacklabs/chainbench) | Flexible blockchain infrastructure benchmarking and load testing tool. |
 | [`compare-dashboard-functions`](https://github.com/chainstacklabs/compare-dashboard-functions) | Core functions powering the **Compare Dashboard**. |
 | [Compare Dashboard](https://compare.chainstack.com/dashboard) | Live benchmarking platform for blockchain node performance. |
 | [Faucet](https://faucet.chainstack.com/) | One-click faucet to grab test tokens fast. |
+| [EVM Swiss Army Knife](https://web3tools.chainstacklabs.com/) | Do all your hex > dec, ENS look-ups, functions signatures etc on one place. |
 
 ---
 
