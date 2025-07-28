@@ -23,6 +23,8 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 | Project | Description |
 |---------|-------------|
 | [`pump-fun-bot`](https://github.com/chainstacklabs/pump-fun-bot) | Open-source [Solana trading bot](https://www.youtube.com/watch?v=7valHrMLvZw). |
+| [`letsbonk-fun-bot`](https://github.com/chainstacklabs/letsbonk-fun-bot) | Open-source Solana trading bot. |
+| [`web3-ai-trading-agent`](https://github.com/chainstacklabs/web3-ai-trading-agent) | A complete E2E walkthrough on [building a Web3 trading agent](https://www.youtube.com/watch?v=2wQn_nvAQp8). |
 | [`chainbench`](https://github.com/chainstacklabs/chainbench) | Flexible blockchain infrastructure benchmarking and load testing tool. |
 | [`compare-dashboard-functions`](https://github.com/chainstacklabs/compare-dashboard-functions) | Core functions powering the **Compare Dashboard**. |
 | [Compare Dashboard](https://compare.chainstack.com/dashboard) | Live benchmarking platform for blockchain node performance. |
