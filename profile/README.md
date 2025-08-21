@@ -22,8 +22,7 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 
 | Project | Description |
 |---------|-------------|
-| [`pump-fun-bot`](https://github.com/chainstacklabs/pump-fun-bot) | Open-source [Solana trading bot](https://www.youtube.com/watch?v=7valHrMLvZw). |
-| [`letsbonk-fun-bot`](https://github.com/chainstacklabs/letsbonk-fun-bot) | Open-source Solana trading bot. |
+| [`pumpfun-bonkfun-bot`](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) | Open-source [Solana trading bot for pump.fun and bonk.fun](https://www.youtube.com/watch?v=7valHrMLvZw). |
 | [`web3-ai-trading-agent`](https://github.com/chainstacklabs/web3-ai-trading-agent) | A complete E2E walkthrough on [building a Web3 trading agent](https://www.youtube.com/watch?v=2wQn_nvAQp8). |
 | [`chainbench`](https://github.com/chainstacklabs/chainbench) | Flexible blockchain infrastructure benchmarking and load testing tool. |
 | [`compare-dashboard-functions`](https://github.com/chainstacklabs/compare-dashboard-functions) | Core functions powering the **Compare Dashboard**. |
@@ -37,6 +36,5 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 | Name | Description |
 |---------|-------------|
 | [Developer Portal](https://docs.chainstack.com/) | AI-ready developer portal with interactive API references. It's also available as an [open-source repository](https://github.com/chainstack/dev-portal)—feel free to feed it to your agents or contribute.|
-| [Raw Web3 data for your warehouse](https://chainstack.com/raw-web3-data-for-your-warehouse/) | Ingest the chain data, including backfills, in the age of AI when data is gold. |
 | [Best RPC nodes for AI Agents](https://chainstack.com/blockchain-rpc-nodes-for-ai-agents/) | As AI practitioners, we make sure our nodes are always AI-ready. |
 | [Subgraphs](https://chainstack.com/subgraphs/) | Deploy your subgraphs on Chainstack infrastructure and we'll handle the rest. |
