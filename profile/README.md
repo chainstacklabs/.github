@@ -37,4 +37,3 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 |---------|-------------|
 | [Developer Portal](https://docs.chainstack.com/) | AI-ready developer portal with interactive API references. It's also available as an [open-source repository](https://github.com/chainstack/dev-portal)—feel free to feed it to your agents or contribute.|
 | [Best RPC nodes for AI Agents](https://chainstack.com/blockchain-rpc-nodes-for-ai-agents/) | As AI practitioners, we make sure our nodes are always AI-ready. |
-| [Subgraphs](https://chainstack.com/subgraphs/) | Deploy your subgraphs on Chainstack infrastructure and we'll handle the rest. |
