@@ -7,13 +7,13 @@
 We run fast, reliable nodes for **25+ blockchains**—so builders can focus on products, not plumbing.
 
 <p align="center">
-  <a href="https://console.chainstack.com" target="_blank">
+  <a href="https://console.chainstack.com/sign-up?utm_source=github&utm_medium=referral&utm_campaign=org-profile" target="_blank">
     <img src="https://img.shields.io/badge/Sign%20up%20with-Chainstack-blue?style=for-the-badge">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://chainstack.com/protocols/" target="_blank">Supported chains</a>
+  <a href="https://chainstack.com/protocols/?utm_source=github&utm_medium=referral&utm_campaign=org-profile" target="_blank">Supported chains</a>
 </p>
 
 ---
@@ -26,8 +26,8 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 | [`web3-ai-trading-agent`](https://github.com/chainstacklabs/web3-ai-trading-agent) | A complete E2E walkthrough on [building a Web3 trading agent](https://www.youtube.com/watch?v=2wQn_nvAQp8). |
 | [`chainbench`](https://github.com/chainstacklabs/chainbench) | Flexible blockchain infrastructure benchmarking and load testing tool. |
 | [`compare-dashboard-functions`](https://github.com/chainstacklabs/compare-dashboard-functions) | Core functions powering the **Compare Dashboard**. |
-| [Compare Dashboard](https://compare.chainstack.com/dashboard) | Live benchmarking platform for blockchain node performance. |
-| [Faucet](https://faucet.chainstack.com/) | One-click faucet to grab test tokens fast. |
+| [Compare Dashboard](https://compare.chainstack.com/dashboard?utm_source=github&utm_medium=referral&utm_campaign=org-profile) | Live benchmarking platform for blockchain node performance. |
+| [Faucet](https://faucet.chainstack.com/?utm_source=github&utm_medium=referral&utm_campaign=org-profile) | One-click faucet to grab test tokens fast. |
 | [EVM Swiss Army Knife](https://web3tools.chainstacklabs.com/) | Do all your hex > dec, ENS look-ups, functions signatures etc on one place. |
 
 ---
@@ -35,5 +35,5 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 ## See also
 | Name | Description |
 |---------|-------------|
-| [Developer Portal](https://docs.chainstack.com/) | AI-ready developer portal with interactive API references. It's also available as an [open-source repository](https://github.com/chainstack/dev-portal)—feel free to feed it to your agents or contribute.|
-| [Best RPC nodes for AI Agents](https://chainstack.com/blockchain-rpc-nodes-for-ai-agents/) | As AI practitioners, we make sure our nodes are always AI-ready. |
+| [Developer Portal](https://docs.chainstack.com/?utm_source=github&utm_medium=referral&utm_campaign=org-profile) | AI-ready developer portal with interactive API references. It's also available as an [open-source repository](https://github.com/chainstack/dev-portal)—feel free to feed it to your agents or contribute.|
+| [Best RPC nodes for AI Agents](https://chainstack.com/agents/?utm_source=github&utm_medium=referral&utm_campaign=org-profile) | As AI practitioners, we make sure our nodes are always AI-ready. |
